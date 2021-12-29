@@ -16,7 +16,8 @@ Graduation: 05-05-2021
 ## Objective of the Course: 
  - As a student I learned the concepts and discussions of Information Systems in the business environment by utilizing hands-on projects on websites, spreadsheets, databases, and data analysis; and research into global-related topics in IS.
 
-## New Objective - Continue learning Java programming concepts and coding. 
+# New Objective - Continue learning Java programming concepts and coding. 
+## Online courses and Material from Udemy, HackerRank, StackSkills, HackMe, and LeetCode
 
 # Topics
 - Review of Fundamentals of Programming
